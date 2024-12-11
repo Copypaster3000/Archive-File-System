@@ -1,5 +1,5 @@
-// R. Jesse Chaney
-// rchaney@pdx.edu
+//viktar.h
+//Drake Wheeler
 
 #pragma once
 
