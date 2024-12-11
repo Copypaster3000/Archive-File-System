@@ -1,7 +1,5 @@
 //viktar.c
 //Drake Wheeler
-//CS333
-//Lab 3
 
 #include <stdio.h> 
 #include <stdlib.h>
@@ -15,8 +13,6 @@
 #include <grp.h>
 #include <time.h>
 #include "viktar.h"
-
-#define OPTIONS "xctTf:Vhv" //comand line options
 
 #ifndef FALSE
 # define FALSE 0
